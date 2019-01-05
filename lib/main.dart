@@ -5,7 +5,7 @@ void main() => runApp(MaterialApp(
   home: MyApp(),
   debugShowCheckedModeBanner: false ,
   theme: ThemeData(
-    primarySwatch: Colors.purple,
+    primarySwatch: Colors.orange
   ),
 ));
 
